@@ -1,3 +1,5 @@
+# Django-google-oauth
+
 This project shows a simple way to add google authentication to your django app, for this you will need a Google Project and the OAuth client credentials to proceed with the authentication and of course python on your machine.
 ---
 #### Creating a Google Project
